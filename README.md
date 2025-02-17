@@ -13,7 +13,7 @@
 <h2>How to Use the MEXC Referral Code '1huHd'</h2>
 <h3>Step-by-Step Registration Guide</h3>
 <ol>
-    <li><strong>Visit MEXC’s Official Website or App</strong>: Navigate to <a href="https://www.mexc.com">MEXC.com</a> or download the mobile app.</li>
+    <li><strong>Visit MEXC’s Official Website or App</strong>: Navigate to <a href="https://www.mexc.com/register?inviteCode=mexc-1huHd">MEXC.com</a> or download the mobile app.</li>
     <li><strong>Sign Up for an Account</strong>: Click on ‘Register’ and fill in your email address or phone number.</li>
     <li><strong>Enter the Referral Code '1huHd'</strong>: During the sign-up process, input the referral code <strong>'1huHd'</strong> to unlock bonuses.</li>
     <li><strong>Complete the Verification Process</strong>: Verify your identity through KYC (Know Your Customer) to become eligible for the rewards.</li>
@@ -90,4 +90,4 @@
 <h2>Conclusion</h2>
 <p>MEXC continues to offer one of the best new user bonuses in the crypto industry. By using the referral code <strong>'1huHd'</strong>, traders can unlock <strong>up to $8,000 USDT in bonuses</strong>, a <strong>50% discount on trading fees</strong>, and access exclusive promotions. If you're looking for a high-reward platform with a user-friendly experience, MEXC is a top choice. Sign up today and start trading with maximum benefits!</p>
 
-<p><strong>👉 <a href="https://www.mexc.com">Register now on MEXC using referral code '1huHd' to claim your bonus!</a></strong></p>
+<p><strong>👉 <a href="https://www.mexc.com/register?inviteCode=mexc-1huHd">Register now on MEXC using referral code '1huHd' to claim your bonus!</a></strong></p>
